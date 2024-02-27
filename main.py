@@ -29,7 +29,7 @@ DELETE_REVIEW   = True # Boolean: False or True
 DELETE_COMMENTS = True # Boolean: False or True 
 
 input_file = "input.txt"  # Replace with your input file path
-output_file = "output_test.txt"  # Replace with your output file path
+output_file = "output.txt"  # Replace with your output file path
 
 
 #####################################################################
